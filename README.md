@@ -1,7 +1,3 @@
-Sure, here's a simple README file for your project:
-
----
-
 # Dashboard Project
 
 This project is a React-based dashboard that visualizes data using various chart components from the Recharts library. It provides insights into different aspects of data, such as alert severity over time, events by type, and protocol distribution.
