@@ -9,7 +9,7 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```
-git clone https://github.com/yourusername/dashboard-project.git
+git clone https://github.com/yogirajfulpagar/WiJungle-Dashboard.git
 ```
 
 2. Navigate to the project directory:
